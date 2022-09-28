@@ -1,0 +1,4 @@
+all: 
+	program
+program: compile.conf solution.c
+	gcc -o program compile.conf solution.c
