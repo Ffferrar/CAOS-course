@@ -1,0 +1,6 @@
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/2ndContest.dir
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/main.dir
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/main0.dir
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/main1.dir
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/forcehuman/CAOS cource/2ndContest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
